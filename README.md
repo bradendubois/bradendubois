@@ -32,3 +32,5 @@
     <img src="https://konpa.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="30" height="30"/>  
 </p>
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=bradendubois" alt="bradendubois" /> <p>
+        
