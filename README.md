@@ -12,7 +12,7 @@
 - 👯 I’m always looking to collaborate on competitive programming and maintain my own solutions / contest lists [**here**](https://github.com/bradendubois/competitive-programming).
 - 👨‍💻 All of my projects are available [here](https://github.com/bradendubois?tab=repositories).
 - ✉️ Reach me at [braden.dubois@usask.ca](mailto:braden.dubois@usask.ca).
-- 📄 My resume can either be found [**here**](https://github.com/bradendubois/bradendubois/blob/master/Resume.pdf) or on my [**personal website**](bradendubois.dev)
+- 📄 My resume can either be found [**here**](https://github.com/bradendubois/bradendubois/blob/master/resume.pdf) or on my [**personal website**](bradendubois.dev)
 - ⚡ Fun fact: Verifiable coffee snob. ☕☕☕
 
 <hr />
